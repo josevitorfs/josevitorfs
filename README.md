@@ -2,7 +2,13 @@
 
 **`Desenvolvedor Web e Engenheiro de IA`**
 
-Me chamo José Vitor, tenho 21 anos e sou natural do Acre. Atualmente, estou cursando Engenharia de Software na UFMS, tendo feito 2 anos de Sistemas de Informação antes de trocar para o novo curso. Sou apaixonado por tecnologia e desenvolvimento de soluções com código. Atualmente busco oportunidades para desenvolver minha habilidades no mercado de trabalho, tendo meu linkedin "[José Vitor](linkedin.com/in/josevitorfs)" como referencia para propostas e uma visão mais profissional do meu perfil.
+Me chamo José Vitor, tenho 21 anos e sou natural do Acre. Atualmente, curso Engenharia de Software na UFMS, após ter estudado por dois anos Sistemas de Informação antes de realizar a migração para o novo curso.
+
+Sou apaixonado por tecnologia e pelo desenvolvimento de soluções por meio da programação, sempre buscando aprender novas tecnologias e aplicá-las em projetos que gerem impacto real. Atualmente, procuro oportunidades para desenvolver minhas habilidades no mercado de trabalho e adquirir experiência profissional.
+
+Para conhecer melhor minha trajetória e entrar em contato, projetos e experiências, acesse meu LinkedIn, que utilizo como principal referência para propostas e uma visão mais profissional do meu perfil.
+
+</br>
 
 <p align="left">
     <a href="https://www.linkedin.com/in/josevitorfs/" target="_blank">
@@ -143,14 +149,14 @@ Me chamo José Vitor, tenho 21 anos e sou natural do Acre. Atualmente, estou cur
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=josevitorfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-stats-extended.vercel.app/api?username=josevitorfs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=josevitorfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=josevitorfs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
